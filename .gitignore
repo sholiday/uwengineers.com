@@ -1,0 +1,36 @@
+# mac
+.DS_Store
+*.tmproj
+tmtags
+
+.metadata
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+# Output and Cache
+uwengineers/cache/*
+*.tmplc
+uwengineers/output/index.html
+uwengineers/output/atom.xml
+uwengineers/output/opml.xml
+uwengineers/output/rss10.xml
+uwengineers/output/rss20.xml
+uwengineers/output/foafroll.xml
